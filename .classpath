@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/ronet/eclipse-workspace/BlockBusters/jar_files/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ronet/eclipse-workspace/BlockBusters/jar_files/flatlaf-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ronet/eclipse-workspace/BlockBusters/jar_files/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ronet/eclipse-workspace/BlockBusters/jar_files/log4j-core-2.20.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ronet/eclipse-workspace/BlockBusters/jar_files/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ronet/eclipse-workspace/NewBlockBusters/jar_files/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
